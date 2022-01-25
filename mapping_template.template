@@ -1,0 +1,4 @@
+{
+  "content":"$input.body",
+  "key":"$input.params('name')"
+}
